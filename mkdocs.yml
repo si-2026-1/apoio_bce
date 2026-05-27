@@ -1,0 +1,35 @@
+site_name: UnBooks
+site_description: Sistema de recomendação de livros para a Biblioteca Central da Universidade de Brasília
+site_author: Grupo UnBooks
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Início: index.md
+  - Projeto:
+      - Problema, Escopo e Stakeholders: projeto/problema-escopo-stakeholders.md
+      - Requisitos: projeto/requisitos.md
+      - Ética e IA: projeto/etica-ia.md
+  - Produto:
+      - Épicos: produto/epicos.md
+      - Histórias de Usuário: produto/historias-usuario.md
+      - Backlog: produto/backlog.md
+  - Modelagem:
+      - MER/DER: modelagem/mer-der.md
+  - Slides: slides.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
