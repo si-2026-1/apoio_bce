@@ -2,8 +2,16 @@
 
 ## MER
 
-![Modelo Entidade-Relacionamento](https://si-2026-1.github.io/UnBooks/mer.pdf)
+<iframe
+    src="https://si-2026-1.github.io/UnBooks/mer.pdf"
+    width="100%"
+    height="700px">
+</iframe>
 
 ## DER
 
-![Diagrama Entidade-Relacionamento](https://si-2026-1.github.io/UnBooks/der.pdf)
+<iframe
+    src="https://si-2026-1.github.io/UnBooks/der.pdf"
+    width="100%"
+    height="700px">
+</iframe>
