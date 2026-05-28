@@ -72,7 +72,7 @@ Como estudante, eu quero escolher se uma leitura será pública ou privada, para
 ## HU06 — Filtrar livros
 
 **Descrição:**  
-Como estudante, eu quero filtrar livros por assunto, idioma e profundidade, para que eu encontre obras mais adequadas ao meu objetivo.
+Como estudante, eu quero filtrar livros, para que eu encontre obras mais adequadas ao meu objetivo.
 
 **Critérios de aceitação:**
 
